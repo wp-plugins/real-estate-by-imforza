@@ -31,6 +31,9 @@ Andrew Bowen
 == Changelog ==
 
 = 1.0 =
+* Fixed Custom Post Type Icons
+
+= 1.0 =
 * Beta Launch of Plugin
 
 

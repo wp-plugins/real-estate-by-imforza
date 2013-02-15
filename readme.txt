@@ -4,7 +4,7 @@ Author URL: http://www.imforza.com
 Contributors: Brandon Hubbard
 Donate link: http://www.imforza.com/
 Tested up to: 3.5
-Stable tag: 1.1
+Stable tag: 1.2
 Tags: real estate, realestate, properties, agents, imFORZA, nextgen-gallery, nextgen gallery, real estate wordpress
 License: GPLv2 or later	
 
@@ -38,6 +38,10 @@ Andrew Bowen
 1. Details Coming Soon
 
 == Changelog ==
+
+= 1.2 =
+* Cleaned up Comments for Testimonials
+* Removed Google Font that was being loaded
 
 = 1.1 =
 * Fixed Custom Post Type Icons

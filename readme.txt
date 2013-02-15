@@ -1,11 +1,20 @@
 === Real Estate by imFORZA ===
+Author: imFORZA
+Author URL: http://www.imforza.com
 Contributors: Brandon Hubbard
 Donate link: http://www.imforza.com/
-Tags: real estate, realestate, properties, agents, imFORZA, nextgen-gallery, nextgen gallery
+Tested up to: 3.5
+Stable tag: 1.1
+Tags: real estate, realestate, properties, agents, imFORZA, nextgen-gallery, nextgen gallery, real estate wordpress
+License: GPLv2 or later	
 
 == Description ==
 
+<h3>Currently in BETA release</h3>
+
 The Real Estate by imFORZA plugin for wordpress gives users the ability to manage Agents, Properties, and Neighborhoods all inside Wordpress. 
+
+Note: Currently this plugin is in beta, in order to use you would need to create template files within your theme. 
 
 
 == Credits ==
